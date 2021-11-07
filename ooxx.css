@@ -1,0 +1,23 @@
+table, th, td
+        {
+            border: 1px solid black;
+            border-collapse: collapse;
+            font-family: Calibri;
+            font-size: 48px;
+        }
+
+        caption
+        {
+            color: navy;
+        }
+
+        tbody tr
+        {
+            height: 100px;
+        }
+
+        td
+        {
+            width: 100px;
+            text-align: center;
+        }

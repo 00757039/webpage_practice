@@ -1,0 +1,33 @@
+table { width: 321px;
+        height: 321px;
+        border-collapse: separate;
+        background-color: white;
+		}
+
+		td,
+		caption {
+			font-weight: bold;
+            font-size: 20px;
+		}
+
+		caption {
+			font-size: 17px;
+			color: gray;
+		}
+
+		td {
+			color: blue;
+			border: 2px solid gray;
+			padding: 5px;
+		}
+		button {
+            position: relative;
+            left: 23px;
+			width: 150px;
+            height: 45px;
+            background:    #000000;
+            background:    linear-gradient(#000000, #f8f8f8);
+            border-radius: 20px;
+            box-shadow:0 0 10px 5px #f8f8f8,inset 0 0 10px 5px #f8f8f8;
+            color: #ffff00;
+		}
