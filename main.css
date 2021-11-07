@@ -1,7 +1,7 @@
 html    {
         z-index: -1;
         font-family: "word";
-        background-image: url("many_balls.png");
+        background-image: url("many_balls.PNG");
         background-size: cover;
         background-repeat: no-repeat;
         }
